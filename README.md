@@ -9,6 +9,11 @@
 
 ## To do
 
+- Figure out how to extract the frequencies from a recording
+    - Butterworth filters seem OK but not great
+    - FFT should be the way, but it doesn't hit exactly the frequencies I need
+    - https://en.wikipedia.org/wiki/Goertzel_algorithm seems to do what I want?
+    - Or notch filters?
 - Consider a Raspberry Pi, if this isn't going to work
 
 ## Done
