@@ -1,5 +1,9 @@
 # modem
 
+## Getting started
+
+System requirements: `libportaudio2`
+
 ## Status
 
 - Convert string of ASCII characters to their 7-bit representation. E.g., "A" is 65, or 1000001.
